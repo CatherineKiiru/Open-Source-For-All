@@ -7,7 +7,6 @@ This is a repository containing Open Source projects that software engineers, da
  - https://github.com/chaoss/AFOS-AfricanOpenSource
  - https://github.com/Friendsofthepeople/peoples-gavel
 
-   
 ## Python & Django Projects
  - https://mentorlst.com/group-details/django-labs-b3cb9 (project building & mentorship sessions)
  - https://github.com/DAGWorks-Inc/hamilton
@@ -25,10 +24,9 @@ This is a repository containing Open Source projects that software engineers, da
 ## C++
 - https://github.com/ZigRazor/CXXGraph
 
-
+## PHP & Laravel Projects [WIP]
 ## UI/UX Projects [WIP]
 ## Data Science [WIP]
-
 ## Open Source Opportunties [WIP]
 
 
