@@ -1,5 +1,5 @@
 # Open-Source-For-All
-This is a repository containing Open Source projects that software engineers can contribute to. These projects have an active community, maintainers are reachable and have proven to be supportive of their contributors.  Happy coding :)!
+This is a repository containing Open Source projects that software engineers, data scientists, UI/UX designers & technical writers can contribute to. These projects have an active community, maintainers are reachable and have proven to be supportive of their contributors. Happy coding :)!
 
 ## JavaScript, TypeScript, & React Projects
  - https://github.com/boxyhq/jackson
